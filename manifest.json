@@ -1,7 +1,7 @@
 {
     "name": "T-Bank",
     "short_name": "TB",
-    "start_url": "/",
+    "start_url": "https://vmolo4ke.github.io/tbank/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
@@ -18,3 +18,4 @@
     }
     ]
 }
+
